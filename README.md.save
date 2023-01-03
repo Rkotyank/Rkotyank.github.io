@@ -1,0 +1,8 @@
+# Rkotyank.github.io
+Fine-grained control – AWS Global Accelerator lets you set a traffic dial for your regional endpoint groups, to dial 
+traffic up or down for a specific AWS Region when you conduct performance testing or application updates. In addition, 
+if you have stateful applications, you can choose to direct all requests from a user to the same endpoint, regardless 
+of the source port and protocol, to maintain client affinity. These features give you fine-grained control. By 
+default, the traffic dial is set to 100% for all regional endpoint groups.
+Also supports bring your own IP (BYOIP) so you can use your own IPs on the AWS edge network.
+Steps in deploying an accelerator
